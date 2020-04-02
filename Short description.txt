@@ -1,0 +1,60 @@
+//Mit RDC absatz
+<p>inkl. RDC-Sensoren! (Reifendruckkontrolle)</p>
+
+//Ohne RDC absatz
+<p>RDC-Sensoren können gegen Aufpreis nachgerüstet werden!</p>
+
+//Bild mit anderen Reifen
+
+<p>Abbildung abweichend, es ist die unten angegebene ### Bereifung montiert!</p>
+
+//Allgemein nicht passend
+<p><b>Achtung, nicht passend für ### </b></p>
+
+//Hinweis in Orange und dick
+<p><span style="color: #ff6600;">
+<b>Hinweis</b></span></p>
+
+//Hinweis JCW Facelift
+<p><span style="color: #ff6600;">
+<b>Achtung, nicht passend für den Clubman F54 Facelift ab Baujahr 05/2019!</b></span></p>
+
+//F45 Facelift nicht passend
+<p>inkl. RDC-Sensoren! (Reifendruckkontrolle)</p>
+<p><b>Achtung, nicht passend für die neuen Facelift (LCI) Modelle ab BJ. 2018!</b></p>
+
+//F45 Facelift passend
+<p>inkl. RDC-Sensoren! (Reifendruckkontrolle)</p>
+<p><b>Auch passend für die neuen Facelift (LCI) Modelle ab BJ. 2018!</b></p>
+
+//Mini R-Baureihe Hinweis
+<p><span style="color: #ff6600;">
+<b>Achtung: Dieser Radsatz passt nicht auf die aktuelle Mini F-Baureihe!</b></span></p>
+
+//JCW-Hinweis false
+<p><span style="color: #ff6600;">
+<b>Dieser Radsatz passt auf alle Cooper S Modelle.
+<br><u>Nicht</u> passend für den JCW mit Brembo Bremsanlage!</b></span></p>
+
+//JCW-Hinweis true
+<p>inkl. RDC-Sensoren! (Reifendruckkontrolle)</p>
+<p><b>Auch passend für den JCW mit der Brembo Bremsanlage!</b></p>
+
+//620 Nabenabdeckung
+<p>Die abgebildeten Nabenabdeckungen sind nicht im Lieferumfang enthalten.
+Diese können in unserem Shop unter der Kategorie Zubehör erworben werden. (Teilenummer 6868053)</p>
+
+<p>Die abgebildeten Nabenabdeckungen sind nicht im Lieferumfang enthalten.
+Diese können in unserem Shop unter der Kategorie <span style="color: #2e9bda;">
+<a href="https://www.werksraeder24.de/zubehoer.html"><u>"Zubehör"</u></a></span> 
+erworben werden.  (Teilenummer 6868053)</p>
+->Auf Ebay nicht erlaubt!
+
+<p><span style="color: #ff6600;">
+<b>Dieser Radsatz passt auf alle Cooper S Modelle.
+<br><u>Nicht</u> passend für den JCW mit Brembo Bremsanlage!</b></span></p>
+
+//Link einfügen
+<span style="color: #2e9bda;"><a href="LINK"><u>TEXT</u></a></span>
+
+Beispielbild aufpolierte Stelle

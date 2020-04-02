@@ -21,13 +21,13 @@ public class MainApp extends Application {
         FXMLLoader viewLoader = new FXMLLoader();
         viewLoader.setLocation(getClass().getResource("/fxml/codeyard.fxml"));
         content = viewLoader.load();
-        Rectangle2D primaryScreenBounds = Screen.getPrimary().getVisualBounds();
+        Rectangle2D secondaryScreenBounds = Screen.getPrimary().getVisualBounds();
 
         stage = new Stage();
         stage.setTitle("Codeyard Application");
         stage.setScene(new Scene(content, 480, 150));
-        stage.setX(primaryScreenBounds.getMinX() + primaryScreenBounds.getWidth() - 490);
-        stage.setY(primaryScreenBounds.getMinY() + primaryScreenBounds.getHeight() - 180);
+        stage.setX(secondaryScreenBounds.getMaxX() - secondaryScreenBounds.getWidth() - 500);
+        stage.setY(secondaryScreenBounds.getMinY() + secondaryScreenBounds.getHeight() - 180);
         stage.show();
 
     }

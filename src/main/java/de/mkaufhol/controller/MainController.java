@@ -24,6 +24,9 @@ public class MainController {
             textfieldCounter.setOnKeyTyped(event -> count());
             started = true;
         }
+        else {
+
+        }
     }
 
     @FXML
@@ -34,24 +37,30 @@ public class MainController {
 
     @FXML
     public void pressedCopy() {
+        copy();
+    }
 
+    @FXML
+    public void pressedPaste() {
+       paste();
+    }
+
+    private void count() {
+        Integer length = textfieldCounter.getText().length();
+        labelCount.setText("Zeichenzähler: " + length.toString());
+
+        if (length > 0) {
+
+        }
+    }
+
+    private void copy() {
         ClipboardContent content = new ClipboardContent();
         content.putString(textfieldCounter.getText());
         Clipboard.getSystemClipboard().setContent(content);
     }
 
-    @FXML
-    public void pressedPaste() {
+    private void paste() {
         textfieldCounter.setText(Clipboard.getSystemClipboard().getString());
-        count();
-    }
-
-    public void count() {
-        Integer length = textfieldCounter.getText().length();
-        labelCount.setText("Zeichenzähler: " + length.toString());
-    }
-
-    public void testFunc() {
-        labelCount.setText("TESTFUNC");
     }
 }

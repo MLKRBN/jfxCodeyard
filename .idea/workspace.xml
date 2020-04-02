@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e293e8-d336-4601-8886-ba0458d5cb91" name="Default Changelist" comment="" />
+    <list default="true" id="98e293e8-d336-4601-8886-ba0458d5cb91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jfxCodeyard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/mkaufhol/application/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/mkaufhol/application/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/mkaufhol/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/mkaufhol/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/mkaufhol/application/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/mkaufhol/application/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/codeyard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/codeyard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jfx-codeyard-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jfx-codeyard-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,9 @@
         <option value="FxmlFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -35,6 +50,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -99,6 +116,10 @@
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state x="334" y="75" key="SettingsEditor/0.40.1707.920@0.40.1707.920" timestamp="1585681877484" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585812828270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1585812828270" />
     <state x="547" y="232" width="612" height="536" key="find.popup" timestamp="1585685033806">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
